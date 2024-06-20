@@ -57,7 +57,6 @@ Software Developer Back-End 💻<br><br>
 
 
 
-
 <div align="center">
   <img src="./img/giphy.gif" width="200">
 </div>
