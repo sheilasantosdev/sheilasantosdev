@@ -15,17 +15,9 @@
  ## Contato
 ## Contato
 
-📩 **E-mail:** [Clique aqui para enviar um e-mail](https://criarmeulink.com.br/u/1696453922)
+📩 **E-mail:** [Clique aqui para enviar um e-mail](https://criarmeulink.com.br/u/1718851741)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sheila-dos-santos)
 
- 
-
-📩 [sheila@suaempresa.com](https://criarmeulink.com.br/u/1696453922)
-
-
-
- [📩@eMail](https://criarmeulink.com.br/u/1696453922)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sheila-dos-santos) 
 
 <img src="./img/giphy.gif" align="center" width=200>
