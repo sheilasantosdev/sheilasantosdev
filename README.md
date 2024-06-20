@@ -43,15 +43,17 @@ Software Developer Back-End 💻<br><br>
 
 ## 🌐 Contact Me
 
-<a href="mailto:sheiladeveloper@gmail.com">
-  <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" height="30" style="vertical-align: middle; margin-right: 10px;">
-  <span style="vertical-align: middle;">Enviar e-mail</span>
-</a><br><br>
+<div>
+  <a href="mailto:sheiladeveloper@gmail.com" style="display: inline-block; vertical-align: middle;">
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" height="30" style="vertical-align: middle; margin-right: 10px;">
+    <span style="vertical-align: middle;">Enviar e-mail</span>
+  </a><br>
 
-<a href="https://linkedin.com/in/sheila-dos-santos">
-  <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="30" style="vertical-align: middle; margin-right: 10px;">
-  <span style="vertical-align: middle;">Vamos nos conectar?</span>
-</a>
+  <a href="https://linkedin.com/in/sheila-dos-santos" style="display: inline-block; vertical-align: middle;">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="30" style="vertical-align: middle; margin-right: 10px;">
+    <span style="vertical-align: middle;">Vamos nos conectar?</span>
+  </a>
+</div>
 
 
 
