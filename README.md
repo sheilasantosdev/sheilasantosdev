@@ -44,16 +44,14 @@ Software Developer Back-End 💻<br><br>
 ## 🌐 Contact Me
 
 <a href="mailto:sheiladeveloper@gmail.com">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" alt="Email" height="30" style="vertical-align: middle; margin-right: 10px;">
+  <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" height="30" style="vertical-align: middle; margin-right: 10px;">
   <span style="vertical-align: middle;">Enviar e-mail</span>
 </a>
 
-
 <a href="https://linkedin.com/in/sheila-dos-santos">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" alt="LinkedIn" height="30" style="vertical-align: middle; margin-right: 10px;">
+  <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="30" style="vertical-align: middle; margin-right: 10px;">
   <span style="vertical-align: middle;">Vamos nos conectar?</span>
 </a>
-
 
 
 
