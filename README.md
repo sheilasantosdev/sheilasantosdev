@@ -13,6 +13,13 @@
  #### 🌐 Contact me:
 
  ## Contato
+## Contato
+
+📩 **E-mail:** [Clique aqui para enviar um e-mail](mailto:seuemail@example.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sheila-dos-santos)
+
+ 
 
 📩 **E-mail:** [sheila@suaempresa.com](https://criarmeulink.com.br/u/1696453922)
 
