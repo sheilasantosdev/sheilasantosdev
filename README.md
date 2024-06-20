@@ -45,6 +45,15 @@ Software Developer Back-End 💻<br><br>
 
 📩 **E-mail:** [Clique aqui para enviar um e-mail](mailto:sheiladeveloper@gmail.com)
 
+<div align="center">
+  <a href="https://linkedin.com/in/sheila-dos-santos">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+    <span style="vertical-align: middle; margin-left: 5px;">Vamos nos conectar?</span>
+  </a>
+</div>
+
+
+
 Vamos nos conectar?  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sheila-dos-santos)
 
