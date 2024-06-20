@@ -46,7 +46,7 @@ Software Developer Back-End 💻<br><br>
 <a href="mailto:sheiladeveloper@gmail.com">
   <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" height="30" style="vertical-align: middle; margin-right: 10px;">
   <span style="vertical-align: middle;">Enviar e-mail</span>
-</a>
+</a><br><br>
 
 <a href="https://linkedin.com/in/sheila-dos-santos">
   <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="30" style="vertical-align: middle; margin-right: 10px;">
