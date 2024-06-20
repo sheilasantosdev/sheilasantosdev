@@ -15,7 +15,7 @@
  ## Contato
 ## Contato
 
-📩 **E-mail:** [Clique aqui para enviar um e-mail](https://criarmeulink.com.br/u/1718851741)
+📩 **E-mail:** [Clique aqui para enviar um e-mail](mailto:sheiladeveloper@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sheila-dos-santos)
 
