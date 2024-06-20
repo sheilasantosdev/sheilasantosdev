@@ -8,7 +8,7 @@
 
 Software Developer Back-End 💻<br><br>
 📚 Atualmente estudando Java com a [TeamCubation](https://teamcubation.com/pt/)<br>
-🎓 Formada em [Desenvolvimento de Software com Foco em Back-End](https://cubos.academy/cursos/desenvolvimento-de-software) na [Cubos Academy](https://cubos.academy) | Explorer na [Rocketseat](https://www.rocketseat.com.br/explorer)<br>
+🎓 Formada em JavaScript [Desenvolvimento de Software com Foco em Back-End](https://cubos.academy/cursos/desenvolvimento-de-software) na [Cubos Academy](https://cubos.academy) | Explorer na [Rocketseat](https://www.rocketseat.com.br/explorer)<br>
 🔎 Sou curiosa sobre o funcionamento de coisas em geral, biologia e arte.<br>
 🪄 Eu gosto muito de pedalar, filmes antigos, acampar e ler na praia.<br>
 
@@ -45,6 +45,7 @@ Software Developer Back-End 💻<br><br>
 
 📩 **E-mail:** [Clique aqui para enviar um e-mail](mailto:sheiladeveloper@gmail.com)
 
+Vamos nos conectar?  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sheila-dos-santos)
 
 <div align="center">
