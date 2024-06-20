@@ -2,7 +2,7 @@
 
 ### 💫 About Me:
 
- Software Developer Back-End 💻<br><br> Atualmente estudando Java (https://teamcubation.com/pt/) @[TeamCubation] <br> 🎓 Formada em [Desenvolvimento de Software com Foco em Back-End](https://cubos.academy/cursos/desenvolvimento-de-software) @[Cubos Academy](https://cubos.academy) | [Explorer](https://www.rocketseat.com.br/explorer) @[Rocketseat](https://www.rocketseat.com.br/)<br>🔎 Sou curiosa sobre o funcionamento de coisas em geral, biologia e arte.<br>🪄 Eu gosto muito de pedalar, filmes antigos, acampar e ler na praia.<br>
+ Software Developer Back-End 💻<br><br> Atualmente estudando Java [TeamCubation](https://teamcubation.com/pt/) <br> 🎓 Formada em [Desenvolvimento de Software com Foco em Back-End](https://cubos.academy/cursos/desenvolvimento-de-software) @[Cubos Academy](https://cubos.academy) | [Explorer](https://www.rocketseat.com.br/explorer) @[Rocketseat](https://www.rocketseat.com.br/)<br>🔎 Sou curiosa sobre o funcionamento de coisas em geral, biologia e arte.<br>🪄 Eu gosto muito de pedalar, filmes antigos, acampar e ler na praia.<br>
  
 ---
 [![](https://visitcount.itsvg.in/api?id=sheilasantosdev&icon=2&color=0)](https://visitcount.itsvg.in)
